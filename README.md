@@ -60,11 +60,11 @@ regions, customer segments, and product categories.
 
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](Screenshot%2026-03-22%015508.png)
+
 ## 📸 Dashboard Preview
 
 ![Dashboard Screenshot](Screenshot%202026-03-22%20015433.png)
-![Dashboard Screenshot](Screenshot%202026-03-22%20015452.png)
-![Dashboard Screenshot](Screenshot%202026-03-22%20015508.png)
+
 
 
 ---
